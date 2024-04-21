@@ -1,4 +1,4 @@
-# PC-Games-Sales-Dashboard
+# PC-Games-Sales-Performance Analysis
 The "PC Games Sales Dashboard" provides insightful analytics on PC game sales, including revenue, units sold, genres, and regions. With interactive visualizations, it aids decision-making for developers and publishers, enabling them to optimize strategies and capitalize on market trends in the dynamic PC gaming industry.
 # Identitfy The Outliers in Data Using Python
 The first step of project is find the outliers in data using python.so,I use z-score method to identify the outliers in set of upper limit and lower limit.
